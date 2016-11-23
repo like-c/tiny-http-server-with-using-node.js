@@ -1,0 +1,4 @@
+First, install node.js in your system.
+#apt-get install node.js (for ubuntu)
+Second, start server
+#node server.js
